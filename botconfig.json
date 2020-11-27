@@ -1,0 +1,8 @@
+{ 
+    "prefix" : "hx!",
+    "token" : "NzcxMzIxNDYyNTM1NjE4NTcx.X5qbFw.c6VkA3XHeclpQDa1RoFvKRL1wK0",
+    "YOUTUBE_API_KEY" : "AIzaSyCR9p1D_bkghNCsYCMqicipUUvrTAHKYoQ",
+    "SOUNDCLOUD_CLIENT_ID": "koSuixzk25Cz0fDgsPfhkgeZcKBr7lpQ",
+    "MAX_PLAYLIST_SIZE": 10,
+    "PRUNING": false
+}
